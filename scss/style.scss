@@ -112,6 +112,10 @@ header{
             background-color: white;
             text-align: center;
             text-decoration: none;
+            @include r(600){
+                max-width: 30%;
+
+            }
         }
     }
 }
