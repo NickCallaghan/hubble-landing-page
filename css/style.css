@@ -180,4 +180,8 @@ footer .social li {
   border-radius: 50%;
   text-align: center;
 }
+
+footer .social li a {
+  color: white;
+}
 /*# sourceMappingURL=style.css.map */
